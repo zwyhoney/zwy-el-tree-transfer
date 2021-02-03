@@ -1,6 +1,6 @@
 {
   "name": "zwy-el-tree-transfer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一个基于vue.js和element-ui的树形穿梭框",
   "main": "dist/treeTransfer.min.js",
   "scripts": {
@@ -62,7 +62,6 @@
     "webpack-dev-server": "^2.9.5"
   },
   "dependencies": {},
-  "__npminstall_done": "Mon Jun 08 2020 10:20:08 GMT+0800 (GMT+08:00)",
-  "_from": "zwy-el-tree-transfer@1.0.1",
-  "_resolved": "https://registry.npm.taobao.org/zwy-el-tree-transfer/download/zwy-el-tree-transfer-1.0.1.tgz"
+  "_from": "zwy-el-tree-transfer@1.0.2",
+  "_resolved": "https://registry.npm.taobao.org/zwy-el-tree-transfer/download/zwy-el-tree-transfer-1.0.2.tgz"
 }
